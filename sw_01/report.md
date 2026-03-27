@@ -23,7 +23,7 @@
 - employment — трудоустройство (зарплаты, даты начала работы)
 - kpi — показатели эффективности (70+ записей за 2023-2024 гг.)
 
-  ``` sql
+``` sql
 CREATE TABLE departments (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
