@@ -284,6 +284,8 @@ INSERT INTO kpi (employee_id, year, month, kpi_score, tasks_completed, projects_
 
 Разработаны чарты и дашборд с визуализацией данных KPI
 
+<img width="1231" height="624" alt="image" src="https://github.com/user-attachments/assets/825f385f-4276-49f2-8c26-27cb7901f9f7" />
+
 [открыть дашборд](https://datalens.yandex/9d0r3cg1kakat)
 
 ## Результаты
